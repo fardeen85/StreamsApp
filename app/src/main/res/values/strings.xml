@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Streams</string>
+    <string name="signin">Signin</string>
+    <string name="singup">Signup</string>
+    <string name="donthaveaccount">Dont have an account?</string>
+    <string name="signupNow">Sign up now!</string>
+    <string name="hi">Hi there,\nWelcome back</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="already_account">Already have an account?</string>
+    <string name="singinNow">Sigin Now!</string>
+    <string name="registerNow">Creat Your\nAccount</string>
+    <string name="imageuploadsubtext">Now lets get you a profile picture</string>
+    <string name="upload">Upload</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
